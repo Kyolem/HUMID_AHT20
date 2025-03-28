@@ -1,0 +1,27 @@
+{
+    "name": "HUMID_AHT20",
+    "version": "1.1.0",
+    "description": "This is a library to use the AHT20 with many microcontroller who use the Arduino framework.",
+    "keywords": "AHT20, humidity, temperature, sensor",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Kyolem/HUMID_AHT20.git"
+    },
+    "authors": [
+        {
+            "name": "Kyolem",
+            "email": "gitkyolem@gmail.com",
+            "url": "https://github.com/Kyolem"
+        }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/Kyolem/HUMID_AHT20",
+    "dependencies": {
+        "ownername/print": "~1.3.0"
+    },
+    "frameworks": "Arduino, ESP8266, ESP32",
+    "platforms": "atmelavr, atmelsam, espressif8266, espressif32, microchippic32, nordicnrf52, teensy, ststm32",
+    "engines": {
+        "arduino": ">=1.8.0"
+    }
+}
