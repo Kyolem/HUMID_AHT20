@@ -10,8 +10,8 @@ She return True for no problem and False if there is a problem.
 ` bool getValues() `   
 This fonction is use to get the actual values.  
 It change the values of the variables :  
-float theTemperature,    
-float theHumidity  
+` float theTemperature `,    
+` float theHumidity `  
 
 
 ` float theTemperature `  
